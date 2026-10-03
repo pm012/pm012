@@ -38,5 +38,4 @@ I am a Software Engineer with **5+ years of commercial experience** in QA automa
 
 * 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/serhii-kroshka/) 
 * 📬 **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~016f3e8bded128e184?mp_source=share)
-* 📧 **Email:** pm012@ukr.net
 * 🌍 **Location:** Dnipro, Ukraine (Open to remote worldwide)
