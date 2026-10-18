@@ -17,7 +17,7 @@ I am a Software Engineer with **5+ years of commercial experience** in QA automa
 
 ---
 
-### 💼 Featured Projects / Portfolio
+### Featured Projects / Portfolio
 
 * **[PhotoShare](https://github.com/pm012/photoShare_FastAPI.git)** — A modern, scalable REST API application (similar to Instagram/Pinterest) built with **FastAPI** using the Repository/Service architectural pattern. Features RBAC, Cloudinary integration, dynamic filtering, and automatic QR code generation.
 * **[CV Enhancement Bot](https://github.com/pm012/CV_enchancement_bot.git)** — A Telegram bot assistant designed to optimize resumes and generate tailored cover letters based on vacancy descriptions, powered by **Google GenAI** and Telegram Bot API.
@@ -29,14 +29,13 @@ I am a Software Engineer with **5+ years of commercial experience** in QA automa
 
 ###  Commercial Highlights
 
-* **EPAM Systems** (Junior Python Developer): Built backend services for an AWS-based medical platform, implemented AWS Cognito + JWT auth, and specialized in secure LLM application delivery.
+* **EPAM Systems** (Python Software Engineer): Built backend services for an AWS-based medical platform, implemented AWS Cognito + JWT auth, and specialized in secure LLM application delivery.
 * **SoftServe & Luxoft** (Automation/Manual QA Engineer): Developed core automated test frameworks using Python & Java, achieving 100% functional requirement coverage on enterprise ERP and Identity Security solutions.
 
 ---
 
 ### Connect with me
 
-* [![LinkedIn](https://shields.io)](https://linkedin.com)
- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/serhii-kroshka/) 
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/serhii-kroshka/) 
 * **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~016f3e8bded128e184?mp_source=share)
 * **Location:** Dnipro, Ukraine (Open to remote worldwide)
