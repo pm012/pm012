@@ -9,7 +9,7 @@ I am a Software Engineer with **5+ years of commercial experience** in QA automa
 
 ### Tech Stack & Tools
 
-* **Backend & APIs:** Python, FastAPI, Django, SQLAlchemy, Alembic, REST API, JWT Authentication, RabbitMQ
+* **Backend & APIs:** Python, FastAPI, Django, Odoo, SQLAlchemy, Alembic, REST API, JWT Authentication, RabbitMQ, Pytest, Unittests
 * **Databases:** PostgreSQL, MySQL, Redis, MongoDB, Cassandra, SQLite
 * **Cloud & DevOps:** AWS (Lambda, Cognito, DynamoDB, IAM), Docker, CI/CD (TeamCity, Bamboo, Hudson), Git, SVN
 * **AI & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Streamlit, GitHub Copilot, Prompt Engineering
